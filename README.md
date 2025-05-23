@@ -37,5 +37,6 @@ origin
 Celine@Celine MINGW64 ~/GIT-exercise (main)
 $ git stash
 You do not have the initial commit yet
-```
+```echo "Update for WIP stash test" >> README.md
+
 
